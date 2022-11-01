@@ -1,0 +1,15 @@
+temp/obj/main.o
+temp/obj/app.o
+temp/obj/quiwidget.o
+temp/obj/tcpserver.o
+temp/obj/frmmain.o
+temp/obj/frmtcpclient.o
+temp/obj/frmtcpserver.o
+temp/obj/frmudpserver.o
+temp/obj/qrc_main.o
+temp/obj/moc_quiwidget.o
+temp/obj/moc_tcpserver.o
+temp/obj/moc_frmmain.o
+temp/obj/moc_frmtcpclient.o
+temp/obj/moc_frmtcpserver.o
+temp/obj/moc_frmudpserver.o
